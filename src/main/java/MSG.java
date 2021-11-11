@@ -2,7 +2,7 @@ public class MSG {
     private String msg;
 
     public String getMsg() {
-        return "Message: " + msg;
+        return "MSG Message: " + msg;
     }
 
     public void setMsg(String msg) {
